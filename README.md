@@ -108,6 +108,18 @@ as a response to the growing use and reliance on AI models in critical applicati
 the Japanese tech giant has been working on a prototype for at least one of its game characters, with the goal of enhancing their performance and 
 creating more immersive gaming experiences. This move demonstrates the growing potential for AI in the entertainment industry, as well as the     
 ongoing efforts to push the boundaries of what is possible with this technology.
+
+Sources:
+1. Researchers Propose a Better Way to Report Dangerous AI Flaws - Wired
+   URL: https://www.wired.com/story/ai-researchers-new-system-report-bugs/
+2. Google’s Gemini Robotics AI Model Reaches Into the Physical World - Wired
+   URL: https://www.wired.com/story/googles-gemini-robotics-ai-model-that-reaches-into-the-physical-world/
+3. Sony is experimenting with AI-powered PlayStation characters - The Verge
+   URL: https://www.theverge.com/news/626695/sony-playstation-ai-characters-aloy-horizon-forbidden-west-prototype
+4. All this bad AI is wrecking a whole generation of gadgets - The Verge
+   URL: https://www.theverge.com/gadgets/628039/bad-ai-gadgets-siri-alexa
+5. Snapchat is rolling out AI-powered video lenses - The Verge
+   URL: https://www.theverge.com/news/628354/snap-snapchat-ai-video-lenses
 ```
 
 #### 3. Changing Summary Type to Brief
