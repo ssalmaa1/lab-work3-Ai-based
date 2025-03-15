@@ -57,15 +57,25 @@ The file contains two main sections:
 PS C:\> python main.py
 ```
 Upon running the script, the application starts and displays a list of available commands.
+
 Commands:
+
   search <topic>  - Search for news on a specific topic
+  
   save <topic>    - Save a topic of interest
+  
   list            - List saved topics of interest
+  
   remove <topic>  - Remove a topic of interest
+  
   history         - View search history
+  
   summary <type>  - Set summary type (brief or detailed)
+  
   clear           - Clear search history
+  
   help            - Display this help message
+  
   exit            - Exit the application
 
 #### 2. Searching for News on "AI"
