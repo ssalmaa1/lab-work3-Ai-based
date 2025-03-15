@@ -1,0 +1,67 @@
+{
+  "preferences": {
+    "interests": [
+      " CLIMATE CHANGE",
+      "dental care",
+      "AI"
+    ],
+    "summary_type": "brief"
+  },
+  "history": [
+    {
+      "topic": "climate change",
+      "summary_type": "brief",
+      "timestamp": "2025-03-15T16:22:31.506022"
+    },
+    {
+      "topic": "CLIMATE CHANGE",
+      "summary_type": "brief",
+      "timestamp": "2025-03-15T16:30:00.649127"
+    },
+    {
+      "topic": "CLIMATE CHANGE",
+      "summary_type": "detailed",
+      "timestamp": "2025-03-15T17:03:56.618908"
+    },
+    {
+      "topic": "AI",
+      "summary_type": "detailed",
+      "timestamp": "2025-03-15T17:12:12.588192"
+    },
+    {
+      "topic": "AI",
+      "summary_type": "brief",
+      "timestamp": "2025-03-15T17:15:34.607686"
+    },
+    {
+      "topic": "AI",
+      "summary_type": "brief",
+      "timestamp": "2025-03-15T17:25:20.449226"
+    },
+    {
+      "topic": "AI",
+      "summary_type": "brief",
+      "timestamp": "2025-03-15T17:27:48.518114"
+    },
+    {
+      "topic": "dental care",
+      "summary_type": "brief",
+      "timestamp": "2025-03-15T17:28:33.887984"
+    },
+    {
+      "topic": "AI",
+      "summary_type": "detailed",
+      "timestamp": "2025-03-15T17:30:51.400948"
+    },
+    {
+      "topic": "AI",
+      "summary_type": "detailed",
+      "timestamp": "2025-03-15T17:31:52.827831"
+    },
+    {
+      "topic": "dental care",
+      "summary_type": "brief",
+      "timestamp": "2025-03-15T17:32:32.445789"
+    }
+  ]
+}
